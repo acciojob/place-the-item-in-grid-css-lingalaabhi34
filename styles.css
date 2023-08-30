@@ -5,8 +5,8 @@
     height: 400px;
     display: grid;
     background-color: aqua;
-    grid-template-columns: repeat(2,200px);
-    grid-template-rows: repeat(2,200px);
+    grid-template-columns: repeat(2,100px);
+    grid-template-rows: repeat(2,100px);
 }
  .item-1{
     background-color: blue;
